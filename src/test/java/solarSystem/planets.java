@@ -1,6 +1,6 @@
 package solarSystem;
 
-public class planet3 {
+public class planets {
     String color1;
 
     String size1;
